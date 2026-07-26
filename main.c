@@ -124,6 +124,7 @@ void printNumber0to999(int num){
 int main(void) {
    
     int input;
+         printf("Enter a number: ");
     scanf("%d",&input);
     int array[4];
     
